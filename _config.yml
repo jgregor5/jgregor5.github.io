@@ -1,4 +1,8 @@
-title: "Remote theme example"
+title: jgregor5.cat
+description: Apunts de CCFF d'informàtica
+lang: "ca"
+
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: false
