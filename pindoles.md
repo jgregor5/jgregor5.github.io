@@ -4,8 +4,6 @@ title: Píndoles Java
 permalink: /pindoles-java/
 nav_order: 3
 ---
-# Píndoles Java
-
 ## Noms a Java
 
 **CamelCase**: pràctica d’escriure frases o paraules compostes eliminant espais i posant en majúscula la primera lletra de cada paraula.

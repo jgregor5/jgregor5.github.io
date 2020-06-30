@@ -5,8 +5,6 @@ permalink: /colleccions-mapes/
 nav_order: 2
 ---
 
-# Col·leccions i mapes
-
 El framework de col.leccions de Java permet emmagatzemar, obtenir, manipular i communicar dades agregades. Conté els següents elements:
 
 *   **Interfícies**: són tipus de dades abstractes que representen col·leccions. Les interfícies permeten manipular les col·leccions independentment dels detalls de la seva representació. En llenguatges orientats a objectes, les interfícies formen generalment una jerarquia.

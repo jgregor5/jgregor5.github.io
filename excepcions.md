@@ -4,7 +4,6 @@ title: Excepcions
 permalink: /excepcions/
 nav_order: 3
 ---
-# Excepcions
 
 Una **excepció** és un esdeveniment que passa durant l'execució d'un programari, i que trenca el flux normal d'execució d'instruccions.
 
