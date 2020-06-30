@@ -7,9 +7,3 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 
-plugins:
-  - jekyll-toc
-
-toc:
-  min_level: 2 # default: 1
-  max_level: 3 # default: 6

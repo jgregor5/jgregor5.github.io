@@ -3,7 +3,6 @@ layout: page_toc
 title: Píndoles Java
 permalink: /pindoles-java/
 nav_order: 3
-toc: true
 ---
 # Píndoles Java
 
